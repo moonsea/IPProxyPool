@@ -1,0 +1,3 @@
+#!/bin/sh
+cd /home/moonsea/Codes/IPProxyPool
+python IPProxy.py > log/res.log
